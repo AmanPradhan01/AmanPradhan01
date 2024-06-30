@@ -50,16 +50,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-2003/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-pradhan-258163217/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/real_amit_kr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/amit_codes" target="_blank">
+  <a href="https://www.hackerrank.com/amanpradhan890" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="https://wa.link/odipyf" target="_blank">
+  <a href="https://wa.link/x0e8ge" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://leetcode.com/u/amanpradhan890/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"  />
   </a>
 </div>
